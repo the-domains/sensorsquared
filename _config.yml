@@ -1,0 +1,14 @@
+layout_spectrum: 0.6521292799152434
+typography_spectrum: 0.8331318928394467
+color:
+  brandStrength: 0.5111912055872381
+  lightness: 0.8892100295051932
+  saturation: 0.5235928744077682
+  rhythmicContrast: 0.5739185526035726
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: sensorsquared
